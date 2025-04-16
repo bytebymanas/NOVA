@@ -1,0 +1,288 @@
+User: innova
+NOVA: No API key found. Did you forget to feed me, BOSS?
+
+User: hello nova
+NOVA: No API key found. Did you forget to feed me, BOSS?
+
+User: hello
+NOVA: Hello, Boss! How can I assist you today?
+
+User: how
+NOVA: No API key found. Did you forget to feed me, BOSS?
+
+User: how
+NOVA: No API key found. Did you forget to feed me, BOSS?
+
+User: what is python
+NOVA: Too many results. Please be more specific.
+
+User: help
+NOVA: Boss, you can ask me to calculate, tell jokes, flip coins, roll dice, or search things online. I'm all ears.
+
+User: test gemini
+NOVA: Gemini connection failed. I blame the cloud.
+
+User: change your voice
+NOVA: Back to my sweet voice.
+
+User: nova be sweet
+NOVA: Aww, you want me to be nice? Sure, anything for you, Boss.
+
+User: nova change your voice
+NOVA: Back to my sweet voice.
+
+User: nova 208
+NOVA: No API key found. Did you forget to feed me, BOSS?
+
+User: change your voice
+NOVA: Back to my sweet voice.
+
+User: tell me a joke
+NOVA: Why did the developer go broke? Because he used up all his cache.
+
+User: open youtube
+NOVA: Playing the best video for you.
+
+User: open youtube and play
+NOVA: Playing the best video for you.
+
+User: open youtube and play song
+NOVA: Playing the best video for you.
+
+User: open youtube
+NOVA: Playing the best video for you.
+
+User: open youtube and play salman khan
+NOVA: Playing the best video for you.
+
+User: innova how are you
+NOVA: Ugh. Gemini's being dramatic. No usable response, again.
+
+User: innova how are you
+NOVA: Bruhh... Gemini ghosted me. It’s giving silent treatment.
+
+User: how r u
+NOVA: I am doing well, thank you for asking! As a large language model, I don't experience emotions or feelings in the same way humans do, but I am functioning as intended and ready to assist you. How can I help you today?
+
+
+User: test gemini
+NOVA: Hello there! I'm Gemini, ready to assist. How can I help you today?
+
+
+User: news update
+NOVA: Title: Small plane crashes in Boca Raton, Florida; all 3 on board killed - ABC News
+
+User: news update
+NOVA: Title: European countries vow billions in military support for Ukraine as US envoy meets Putin - AP News
+
+User: news update
+NOVA: Title: Massive cuts to NASA science proposed in early White House budget plan - The Washington Post
+
+User: jaise kya bolun
+NOVA: आप मुझसे क्या पूछना चाहते हैं, यह स्पष्ट करने के लिए आप कुछ और जानकारी दे सकते हैं? उदाहरण के लिए, क्या आप किसी विशेष स्थिति में हैं जहाँ आपको कुछ कहने में परेशानी हो रही है? 
+
+कुछ संभावित स्थितियाँ और सुझाव:
+
+*   **अगर आप किसी से बात शुरू करना चाहते हैं:**
+    *   आप मौसम के बारे में बात कर सकते हैं।
+    *   आप उस जगह के बारे में बात कर सकते हैं जहाँ आप हैं।
+    *   आप उस व्यक्ति से उनके बारे में कुछ पूछ सकते हैं।
+*   **अगर आप किसी बात पर अपनी राय देना चाहते हैं:**
+    *   आप कह सकते हैं, "मुझे लगता है कि..."
+    *   आप कह सकते
+
+User: open youtube
+NOVA: Opening YouTube, Boss.
+
+User: search youtube
+NOVA: Searching YouTube for search.
+
+User: play despacito
+NOVA: I am sorry, I can not play music. I am a text-based AI.
+
+
+User: song on youtube
+NOVA: Okay, I can help you find a song on YouTube! To give you the best results, I need some more information.  Tell me anything you know about the song, such as:
+
+*   **Title:** (Even a partial title helps!)
+*   **Artist:** (Even a partial name helps!)
+*   **Genre:** (e.g., Pop, Rock, Hip-Hop, Classical, Country, Electronic)
+*   **Lyrics:** (Even a line or two!)
+*   **Year:** (Or approximate year it was released)
+*   **What the music video looks like:** (If you remember anything specific)
+*   **Anything else you remember about it:** (e.g.,
+
+User: play peekaboo on youtube
+NOVA: Searching YouTube for peekaboo.
+
+User: play pickup
+NOVA: Okay, I'm ready to play! To make this fun, tell me what kind of pickup game you want to play.  Here are a few ideas, but feel free to suggest something else:
+
+*   **Basketball:** We can simulate a casual game. Tell me how many players are on each team, what the score is, and who has the ball. I can help you make decisions about passes, shots, and defense!
+*   **Soccer:** Similar to basketball, we can simulate a game. Tell me the situation, and I'll help you strategize.
+*   **Volleyball:** Let's set, spike, and dig our way to victory!
+*   **Football (American):** We
+
+User: can you replace human
+NOVA: I am an AI and do not have the capacity to replace a human. I can assist with tasks and provide information, but I am not capable of replacing the complex skills, emotions, and experiences that humans possess.
+
+
+User: write a song for
+NOVA: Okay, I need a little more information to write a good song for you!  Tell me:
+
+*   **Who is the song for?** (A person, a pet, an idea, a place, a feeling?)
+*   **What is the occasion?** (Birthday, anniversary, just because, a thank you, a farewell?)
+*   **What kind of mood or feeling do you want the song to have?** (Happy, sad, funny, reflective, romantic, energetic?)
+*   **What style of music are you thinking of?** (Pop, rock, country, folk, blues, classical, rap, etc.)
+*   **Are there any specific details or stories you want to include
+
+User: what is artificial intelligence
+NOVA: Artificial intelligence (AI) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
+
+User: tell me a joke
+NOVA: I told my computer I needed a break, and it said 'No problem — I'll crash.'
+
+User: calculate 23 x 47
+NOVA: Sorry, could not calculate that.
+
+User: play sidhu moose wala
+NOVA: Okay, I can help you with that! To play Sidhu Moose Wala, I need to know where you want to listen.
+
+User: play sidhu moose wala on youtube
+NOVA: Searching YouTube for sidhu moose wala.
+
+User: i know
+NOVA: Okay! Is there anything specific you know that you'd like to talk about? I'm happy to listen, offer information, or discuss it further.
+
+User: tell me about artificial intelligence
+NOVA: Okay, let's dive into the fascinating world of Artificial Intelligence (AI).
+
+User: what are the top three headlines
+NOVA: To give you the top three headlines, I need to know what kind of news you're interested in!  Tell me:
+
+*   **What topics are you interested in?** (e.g., world news, US politics, technology, business, sports, entertainment, local news for a specific area, etc.)
+
+Once I know your interests, I can give you the top headlines from a reliable news source.
+
+User: sports news
+NOVA: Okay, here's a quick rundown of some of the top sports stories right now:
+
+*   **NBA Playoffs:** The NBA Playoffs are in full swing! The Boston Celtics won the NBA Championship after defeating the Dallas Mavericks.
+
+*   **MLB:** The MLB season is underway. The New York Yankees and Los Angeles Dodgers are among the teams with strong records.
+
+*   **NFL:** NFL teams are holding OTAs and preparing for the upcoming season.
+
+*   **Golf:** Scottie Scheffler continues to be a dominant force in golf, winning multiple tournaments this year.
+
+*   **Tennis:** The French Open recently concluded, with Carlos Alcaraz winning the men's singles title and Iga Świątek winning the
+
+User: what is the current time
+NOVA: Current Time TV (Russian: Настоящее Время, romanized: Nastoyashcheye Vremya) is a Russian-language television channel with editorial office in Prague, created by the US organisations Radio Free Europe/Radio Liberty and Voice of America.
+
+
+== Mission ==
+The channel – via RFE/RL – is funded through grants from the US Congress through the US Agency for Global Media.
+
+User: open google chrome
+NOVA: Okay, I understand. I am unable to directly open applications on your computer. I am a text-based AI.
+
+**To open Google Chrome, please follow these steps:**
+
+*   **Windows:**
+    *   Double-click the Google Chrome icon on your desktop.
+    *   Click the Windows "Start" button, type "Chrome," and click "Google Chrome" in the search results.
+    *   Click the Google Chrome icon in your taskbar (if it's pinned there).
+
+*   **macOS:**
+    *   Click the Google Chrome icon in your Dock.
+    *   Open Finder, go to the "Applications" folder, and double-click "Google Chrome."
+    
+
+User: how r u
+NOVA: I am doing well, thank you for asking! As a large language model, I don't experience emotions or feelings like humans do, but I am functioning optimally and ready to assist you. How can I help you today?
+
+
+User: what is artificial intelligence
+NOVA: Artificial intelligence (AI) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
+
+User: who is salman khan
+NOVA: Salman Khan is a very famous Indian actor, film producer, and television personality who primarily works in Hindi films. He's one of the most commercially successful actors in Indian cinema and has a massive following.
+
+Here are some key things to know about him:
+
+*   **Acting Career:** He's starred in numerous blockbuster films across various genres, including action, comedy, and romance. Some of his most popular films include "Hum Aapke Hain Koun..!", "Kuch Kuch Hota Hai," "Bajrangi Bhaijaan," "Sultan," "Tiger Zinda Hai," and the "Dabangg" film series.
+
+*   **Film Production:** He also owns his own production company, Salman Khan Films, which has produced
+
+User: what is 12 + 13
+NOVA: TAT-12/13 is a ring cable system consisting of the 12th and 13th consortia transatlantic telephone cables, in operation from 1996, initially carrying 2 × 5 Gbit/s.
+This was the first TAT cable to use a ring structure, involving two stretches of cable across the ocean floor, which explains why two numbers (12 and 13) were used.
+
+User: calculate 12 + 13
+NOVA: The result is 25.
+
+User: give me the lyrics song
+NOVA: Please tell me which song you'd like the lyrics to! I need the song title and artist to find them for you. 
+
+For example, you could say:
+
+*   "Give me the lyrics to 'Bohemian Rhapsody' by Queen"
+*   "Give me the lyrics to 'Happy Birthday'"
+*   "Give me the lyrics to 'All I Want for Christmas Is You' by Mariah Carey"
+
+Once you tell me the song, I'll do my best to provide the lyrics!
+
+
+User: give the lyrics of
+NOVA: Please tell me the song you'd like the lyrics for! I need the title and artist to give you the correct lyrics. For example, you could say:
+
+* "give the lyrics of Bohemian Rhapsody by Queen"
+* "give the lyrics of Happy Birthday"
+* "give the lyrics of Let It Be by The Beatles"
+
+Once you tell me the song, I'll do my best to provide the lyrics.
+
+
+User: what is artificial intelligence
+NOVA: Artificial intelligence (AI) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
+
+User: play peekaboo on youtube
+NOVA: Searching YouTube for peekaboo.
+
+User: calculate 326 - 14
+NOVA: The result is 312.
+
+User: tell me a joke
+NOVA: Why did the developer go broke? Because he used up all his cache.
+
+User: change your voice
+NOVA: Back to my sweet voice.
+
+User: news update
+NOVA: Title: Column | Inside the Blue Origin flight: Tears and a Katy Perry performance - The Washington Post
+
+User: news update
+NOVA: Title: Asia stocks rise on hopes of more Trump tariff relief; China whipsaws - Investing.com
+
+User: news update
+NOVA: Title: Elephants at San Diego safari park huddle to protect calves during earthquake - AP News
+
+User: project
+NOVA: Okay, I'm ready to help you with your project! To give you the best possible assistance, I need some more information.  Please tell me about:
+
+**1. What kind of project is it?**
+
+*   **Academic Project:** (e.g., research paper, presentation, essay, lab report, thesis, dissertation, coding assignment, design project)
+*   **Personal Project:** (e.g., building something, learning a new skill, writing a novel, planning a trip, organizing an event)
+*   **Work Project:** (e.g., marketing campaign, software development, product launch, process improvement, report generation)
+*   **Creative Project:** (e.g., writing a
+
+User: please shut up
+NOVA: I understand. I will be quiet now.
+
+
+User: shut up
+NOVA: I understand. I will be quiet now.
+
+
