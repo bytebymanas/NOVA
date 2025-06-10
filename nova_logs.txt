@@ -1,6 +1,36 @@
-User: what is blockchain
-NOVA: A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree, where data nodes are represented by leaves).
+User: turn on
+NOVA: Okay, I'm on. How can I help you?
 
-User: what is artificial intelligence
-NOVA: Artificial intelligence (AI) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
+
+User: what is blockchain
+NOVA: The blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree, where data nodes are represented by leaves).
+
+User: who developed you
+NOVA: I was developed by ByteByManas.
+
+User: youtube
+NOVA: Okay! YouTube is a massive video-sharing platform. Here's a breakdown of what it is and what it offers:
+
+**What is YouTube?**
+
+*   **Video Sharing Platform:** At its core, YouTube allows users to upload, share, and view videos.
+*   **Global Reach:** It's used by billions of people worldwide.
+*   **Diverse Content:** You can find videos on virtually any topic imaginable, from entertainment and education to news and DIY tutorials.
+*   **User-Generated Content (UGC):** A significant portion of the content is created by individual users, making it a democratic and diverse space.
+*   **Social Platform:** Users can interact with videos by liking, dislik
+
+User: play sidhu moose
+NOVA: Okay, I can help you with that! To play Sidhu Moose Wala, I need a little more information.  Please tell me:
+
+*   **Where do you want to play it from?** (e.g., Spotify, YouTube, Apple Music, my local files)
+*   **What song or album do you want to play?** (If you don't have a specific song in mind, I can suggest some popular ones.)
+
+Once I have this information, I can give you the specific commands or steps you need to take.
+
+User: play sidhu moose wala on youtube
+NOVA: Searching YouTube for sidhu moose wala.
+
+User: han yah
+NOVA: ठीक है! मैं यहाँ आपकी मदद करने के लिए हूँ। आप मुझसे क्या करवाना चाहते हैं?
+
 

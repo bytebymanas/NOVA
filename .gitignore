@@ -1,0 +1,42 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# macOS junk
+.DS_Store
+
+# Editor & IDE stuff
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.bak
+*.orig
+*.save
+
+# Audio files (if any recordings)
+*.wav
+
+# Environment variables (secret keys!)
+.env
+
+# Python test cache
+.pytest_cache/
+
+# Caches
+.cache/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
