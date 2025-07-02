@@ -3,12 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <title>NOVA Virtual Assistant</title>
-  <!-- Modern font -->
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;500;400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-  <!-- Particles background -->
   <div id="particles-js"></div>
   <div class="chat-container">
     <div class="chat-header">
@@ -23,7 +21,6 @@
       <button type="button" id="mic-btn" class="mic-btn" title="Voice input">🎤</button>
     </form>
   </div>
-  <!-- Particles.js library -->
   <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
   <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
