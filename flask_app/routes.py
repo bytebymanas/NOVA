@@ -3,7 +3,7 @@ import sys
 import os
 
 # Add the NOVA folder to the Python path
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'NOVA')))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'nova')))
 from main import answer_query
 
 bp = Blueprint('main', __name__)
