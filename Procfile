@@ -1,1 +1,1 @@
-web: gunicorn NOVA.main:app
+web: gunicorn run:app
